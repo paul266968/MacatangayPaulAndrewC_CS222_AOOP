@@ -1,6 +1,6 @@
 using System;
 
-class alternatingPattern
+class alternatingChars
 {
     static void Main()
     {
